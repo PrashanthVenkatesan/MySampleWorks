@@ -1,0 +1,37 @@
+problems:
+
+1. You dcided to give up on earth after the latest financial collapse left 99.99% of the earth's population with 0.01% of the wealth.luckilyt with scant sum of money left in ur accoun,you are able to afford a space ship, leave earth,and fly over galaxy to sell common metals and dirt(which worth a lot). buying and selling over the galaxy req u to convert numbers and units, and u decided to write a program to help you. the mos used for intergalactic transactions follows siimilar convention to roman numerals u have collected appropriate translation b/w them.roman numerals based on 7 symbols:
+I 1
+V 5
+X 10
+L 50
+C 100
+D 500
+M 1000
+numbers are formed by comnining symbols togethrerand adding the values. eg: MMVI = 1000+1000+5 + 1 = 2006
+symbols are placed in order of values larger to smaller. when smaller value preceeds larger we have to substract it
+eg: MCMXLIV= 1000 +(1000- 100)+ (50 -10)+ (5 - 1) = 1944
+ the symbols I, X, C,M cam be repeated three times in succession, cant more.D,V,L can't be repeated 
+ I can sub from V only, X from L and c only, c from D and M only v, L, D can be never substracted
+  arabic numerals can be broken into digits 1903 = 1,9,0,3 AND COnvert accc= MCMIII
+  test input:
+   glob is I
+   prok is V
+   pish is X
+   tegj is L
+   glob glob Silver is 34 credits
+   glob prok Gold is 57800 credits
+   pish pish Iron is 3910 credits
+   how much is pish tegj glob glob ?
+   how many Credits is glob prok Silver ?
+   how many Credits is glob prok Gold ?
+   how many Credits is glob prok Iron ?
+   how much wood could a woodchuck chuck if a woodchuck could chuck wood?
+   
+   output:
+pish tegj glob glob is 42
+glob prok Silver  is 68 Credits
+glob prok Gold  is 57800 Credits
+glob prok Iron  is 782 Credits
+I have no idea what you are talking about
+
