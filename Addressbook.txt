@@ -1,0 +1,2 @@
+This is the GUI module for phone contacts. Very Simplified swing version in jython.
+I tried JSON file as database in this process
